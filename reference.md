@@ -96,7 +96,7 @@ labels = model.fit_predict(coords)
 
 ## Raster / image samples
 
-对齐 `machine-learning.md` 的栅格采样思路：在有效像元上取坐标+波段，再聚类。
+在有效像元上取坐标+波段，再聚类。
 
 ```python
 import rasterio
