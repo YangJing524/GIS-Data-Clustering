@@ -10,8 +10,7 @@ description: Cluster geospatial points, polygons, and raster samples with CRS-sa
 ## When to use
 
 - 用户提到：空间聚类、POI 聚团、热点分区、设施分组、无监督分区
-- 需要在 GeoPandas / scikit-learn / HDBSCAN 里落地聚类
-- 需要按 `prompt.txt` 写 GIS 聚类技术文（见文末写作约束）
+
 
 ## Quick decision
 
